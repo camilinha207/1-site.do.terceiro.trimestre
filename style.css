@@ -1,9 +1,7 @@
-@import url(<style>
 @import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap');
-</style>);
 
 :root {
-    --bg-color: #1563d800;
+    --bg-color: #FFE1FF;
     --primary-color: #a10bf86e;
     --secondary-color: #54f0e38a;
     --font: "Arial", sans-serif;
